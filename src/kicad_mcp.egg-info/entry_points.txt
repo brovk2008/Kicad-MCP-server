@@ -1,0 +1,2 @@
+[console_scripts]
+kicad-mcp = kicad_mcp.server:main

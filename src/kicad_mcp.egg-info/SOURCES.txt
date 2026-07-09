@@ -1,0 +1,12 @@
+pyproject.toml
+src/kicad_mcp/__init__.py
+src/kicad_mcp/connection.py
+src/kicad_mcp/errors.py
+src/kicad_mcp/server.py
+src/kicad_mcp/units.py
+src/kicad_mcp.egg-info/PKG-INFO
+src/kicad_mcp.egg-info/SOURCES.txt
+src/kicad_mcp.egg-info/dependency_links.txt
+src/kicad_mcp.egg-info/entry_points.txt
+src/kicad_mcp.egg-info/requires.txt
+src/kicad_mcp.egg-info/top_level.txt

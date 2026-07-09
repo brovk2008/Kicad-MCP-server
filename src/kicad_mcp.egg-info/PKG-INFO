@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: kicad-mcp
+Version: 0.1.0
+Requires-Python: >=3.11
+Requires-Dist: mcp[cli]>=1.6.0
+Requires-Dist: kicad-python>=0.7.0
+Requires-Dist: cairosvg>=2.7
