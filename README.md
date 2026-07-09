@@ -29,6 +29,7 @@ This server exposes 14 specialized modules providing comprehensive control over 
 | 👁️ **Appearance** | Adjust layer visibility, contrast modes, ratsnest lines, and flip view | `get_editor_appearance`, `set_board_flip`, `set_inactive_layer_display` |
 | 📦 **Exports** | Export manufacturing files (Gerbers, drills, position, ODB++, PDF, STEP) | `export_gerbers`, `export_drill`, `export_position`, `export_3d`, `export_pdf` |
 | 📸 **Screenshots**| Render visual PNG screenshots of the board or specific selection | `get_board_screenshot`, `get_selection_screenshot` |
+| 💻 **CLI Wrapper** | Headless CLI automation for schematics, ERC, DRC, and more | `run_kicad_cli`, `run_erc`, `run_drc`, `export_schematic_pdf`, `export_schematic_netlist` |
 
 ---
 

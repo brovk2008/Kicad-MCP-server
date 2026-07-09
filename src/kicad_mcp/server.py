@@ -27,6 +27,7 @@ from kicad_mcp import (    # noqa: F401
     tools_appearance,
     tools_export,
     tools_screenshot,
+    tools_cli,
 )
 
 
